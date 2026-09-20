@@ -1,0 +1,5 @@
+/build/
+/kite
+*.o
+*.tmp
+/data/*.db
