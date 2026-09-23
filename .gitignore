@@ -3,3 +3,4 @@
 *.o
 *.tmp
 /data/*.db
+.DS_Store
